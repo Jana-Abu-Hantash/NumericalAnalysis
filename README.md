@@ -30,3 +30,5 @@ This report presents a detailed description of each method's mathematical founda
 1. Clone the repository or download the MATLAB scripts.
 2. Ensure MATLAB is installed and set up on your system.
 3. Run each script individually to observe the method's application and results.
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2023>`.
