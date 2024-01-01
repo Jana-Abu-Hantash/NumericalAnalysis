@@ -2,14 +2,6 @@
 
 This project focuses on the theoretical understanding and practical implementation of three fundamental numerical methods for solving initial value problems (IVPs) using MATLAB. The methods include Euler, Taylor, and Runge-Kutta, each providing a unique approach to approximate solutions to differential equations.
 
-## Project Details
-
-- **Course**: MATH 310 -1 - Numerical Analysis
-- **Term**: Spring 2023
-- **Instructor**: Dr. Mohamed Mousa
-- **Contributors**: Jana Abu Hantash - S21107114
-- **Last Edited**: May 25, 2023
-
 ## Methods Overview
 
 ### 1. Euler Method
@@ -38,11 +30,3 @@ This report presents a detailed description of each method's mathematical founda
 1. Clone the repository or download the MATLAB scripts.
 2. Ensure MATLAB is installed and set up on your system.
 3. Run each script individually to observe the method's application and results.
-
-## License
-
-[Specify the License here, if applicable]
-
----
-
-Ensure you fill in or modify each section with the specific details and results of your project. Add
